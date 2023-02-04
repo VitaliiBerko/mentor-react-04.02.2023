@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mentor-react-04.02.2023/static/css/main.7acaea2f.css",
+    "main.js": "/mentor-react-04.02.2023/static/js/main.d3b1a7c1.js",
+    "index.html": "/mentor-react-04.02.2023/index.html",
+    "main.7acaea2f.css.map": "/mentor-react-04.02.2023/static/css/main.7acaea2f.css.map",
+    "main.d3b1a7c1.js.map": "/mentor-react-04.02.2023/static/js/main.d3b1a7c1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.d3b1a7c1.js"
+  ]
+}
